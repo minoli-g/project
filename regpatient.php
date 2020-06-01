@@ -77,7 +77,7 @@ require_once 'core/init.php';
   include 'includes/header1.php';
 ?>
 echo "<div class='mainnotfixed'>";
-<form class="" action="" method="post">
+<!--form class="" action="" method="post">
  
     <label for="firstname">First Name</label><br>
     <input type="text" name="firstname" value="<?php echo escape(Input::get('firstname')); ?>" id="firstname" autocomplete="off"><br>
@@ -106,7 +106,7 @@ echo "<div class='mainnotfixed'>";
   <input type="hidden" name="token" value="<?php echo Token::generate(); ?>"><br>
   <input type="submit" class="btn btn-success" value="Register"><br>
 
-</form>
+</form-->
 
 <!-- <?php
   // echo "</div> <!-- //maincontainer -->";

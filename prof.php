@@ -15,7 +15,7 @@ if (Input::exists()) {
 
 ?>
 
-<div class="mainnotfixed">
+<!--div class="mainnotfixed">
     <form class="" action="" method="post">
         <select id="srch1" name="srch1">
             <option value="firstname">First Name</option>

@@ -31,7 +31,7 @@ if (Input::exists()) {
   }
 }
 ?>
-<!DOCTYPE html>
+<!--DOCTYPE html>
 <html>
     <head>
         <title>
@@ -56,5 +56,5 @@ if (Input::exists()) {
         <a href="#">Lost your password?</a>
     </form></div>
     </body>
-</html>
+</html-->
 

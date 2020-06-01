@@ -17,7 +17,7 @@ if (Input::exists()) {
     }
 }
 ?>
-<style>
+<!--style>
 table {
   border-collapse: collapse;
   width: 90%;
@@ -74,7 +74,7 @@ background-color:#f5f5f5;
             <th style="width:40%;">Message</th>
             <th style="width:10%;">Date</th>
             <th style="width:15%;">Full Message
-         </tr>
+         </tr-->
          <?php 
         if(isset($GLOBALS['arr'])){
             foreach($GLOBALS['arr'] as $ar){
@@ -92,5 +92,5 @@ background-color:#f5f5f5;
                     </tr>";}}
                     ?>
 
-            </table>
-        </div>
+            <!--/table>
+        </div-->

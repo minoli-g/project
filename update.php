@@ -44,7 +44,7 @@ if(Input::exists()) {
 }
 ?>
 
-<form class="" action="" method="post">
+<!--form class="" action="" method="post">
   <div class="field form-group">
     <label for="name">Name</label>
     <input type="text" name="name"  value="<?php echo escape($user->data()->name); ?>">
@@ -54,7 +54,7 @@ if(Input::exists()) {
   </div>
 </form>
 
-<a href="index.php">Back to Index</a>
+<a href="index.php">Back to Index</a-->
 
 <?php
   echo "</div> <!-- //maincontainer -->";

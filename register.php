@@ -92,7 +92,7 @@ function password_generate($chars)
   include 'includes/header1.php';
 ?>
 echo "<div class='mainnotfixed'>";
-<form class="" action="" method="post">
+<!--form class="" action="" method="post">
 
     <input type="radio" name="type" value="4">Receptionist</input>
     <input type="radio" name="type" value="3">Physiotherepist</input><br>

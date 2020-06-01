@@ -14,7 +14,7 @@ if (Input::exists()) {
 }
 
 ?>
-<link rel="stylesheet" type="text/css" href="css/table.css">
+<!--link rel="stylesheet" type="text/css" href="css/table.css">
 <div class="mainnotfixed2">
     <form class="" action="" method="post">
         <!-- <input type="radio" id="patient" name="group" value="1" checked>
@@ -23,7 +23,7 @@ if (Input::exists()) {
         <label for="physio">Physiotheraphist</label>
         <input type="radio" id="recep" name="group" value="4">
         <label for="recep">Receptionist</label><br> -->
-        <select id="srch2" name="srch2" value="">
+        <!--select id="srch2" name="srch2" value="">
             <option value="firstname">First Name</option>
             <option value="lastname">Last Name</option>
             <option value="username">Username</option>

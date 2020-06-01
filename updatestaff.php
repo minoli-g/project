@@ -45,7 +45,7 @@ if(Input::exists()) {
 }
 ?>
 
-<link href="css/editinfo.css" rel="stylesheet" type="text/css">
+<!--link href="css/editinfo.css" rel="stylesheet" type="text/css">
 <div id="mainnotfixed">
     <form action="" method="post">
         <fieldset>
@@ -96,7 +96,7 @@ if(Input::exists()) {
             <input type="submit" name="submit" value="Update" autocomplete="off" />
         </fieldset>
     </form>
-</div>
+</div-->
 
 <?php
   echo "</div> <!-- //maincontainer -->";

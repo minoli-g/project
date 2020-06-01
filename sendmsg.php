@@ -41,7 +41,7 @@ require_once 'core/init.php';
   }
   include 'includes/header1.php';
 ?>
-<div class='mainnotfixed'>
+<!--div class='mainnotfixed'>
 <label for="topic">Send Message to Admin</label><br>
 <form class="" action="" method="post">
  
@@ -54,7 +54,7 @@ require_once 'core/init.php';
   <input type="hidden" name="token" value="<?php echo Token::generate(); ?>"><br>
   <input type="submit" class="btn btn-success" value="Register"><br>
 
-</form>
+</form-->
 
 <!-- <?php
   // echo "</div> <!-- //maincontainer -->";
