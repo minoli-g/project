@@ -37,7 +37,7 @@ if (Input::exists()) {
 }
 ?>
 
-<form class="" action="" method="post">
+<!--form class="" action="" method="post">
 
   <div class="field form-group">
     <label for="username">Username:</label>
@@ -57,7 +57,7 @@ if (Input::exists()) {
 
   <input type="hidden" name="token" value="<?php echo Token::generate(); ?>">
   <input type="Submit" class="btn btn-primary" value="Login">
-</form>
+</form-->
 
 <?php
   echo "</div> <!-- //maincontainer -->";

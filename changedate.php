@@ -28,7 +28,7 @@ if (Input::exists()) {
     // }
 }
 ?>
-<div class='mainnotfixed'>
+<!--div class='mainnotfixed'>
 <form class="" action="" method="post">
  
  <label for="subject">Subject</label><br>
@@ -41,4 +41,4 @@ if (Input::exists()) {
 <input type="submit" name='chg'  class="btn btn-success" value="Register"><br>
 
 </form>
-</div>
+</div-->

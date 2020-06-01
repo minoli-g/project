@@ -14,7 +14,7 @@ if (Input::exists()) {
 }
 
 ?>
-<link rel="stylesheet" type="text/css" href="css/table.css">
+<!--link rel="stylesheet" type="text/css" href="css/table.css">
 <div class="mainnotfixed2">
     <form class="" action="" method="post">
         <input type="radio" id="patient" name="group" value="1" checked>
@@ -43,7 +43,7 @@ if (Input::exists()) {
             <th style="width:40%;">Address</th>
             <th style="width:10%;">Activate</th>
             <th style="width:15%;">Delete
-         </tr>
+         </tr-->
          <?php 
         if(isset($GLOBALS['arr'])){
             foreach($GLOBALS['arr'] as $ar){

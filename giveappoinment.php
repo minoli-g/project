@@ -18,7 +18,7 @@ if (Input::exists()) {
     }
 }
 ?>
-    <form class="" action="" method="post">
+    <!--form class="" action="" method="post">
         <label for="from">From</label><br>
         <input type="date" name="from" value="<?php echo escape(Input::get('from')); ?>" id="from"
             autocomplete="off"><br>
@@ -28,7 +28,7 @@ if (Input::exists()) {
         <input type="submit" class="btn btn-success" value="Search">
     </form>
 
-</div>
+</div-->
 <?php
 include 'includes/footer1.php';
 ?>

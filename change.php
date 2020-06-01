@@ -6,7 +6,7 @@ require_once 'core/init.php';
 // Header
 include 'includes/header1.php';
 ?>
-<link rel="stylesheet" type="text/css" href="css/changeDate1.css">
+<!--link rel="stylesheet" type="text/css" href="css/changeDate1.css">
 
 <div class=mainnotfixed>
     <div id="mainnotfixed">
@@ -31,4 +31,4 @@ include 'includes/header1.php';
             </fieldset>
         </form>
     </div>
-</div>
+</div-->

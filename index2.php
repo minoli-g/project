@@ -1,7 +1,7 @@
 <?php
 
 ?>
-<!DOCTYPE html>
+<!--DOCTYPE html>
 <html>
     <head>
         <title>
@@ -20,4 +20,4 @@
             <a href="patientlogin.php">Log In - for patient</a></li>
 </div>
     </body>
-</html>
+</html-->

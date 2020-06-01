@@ -56,7 +56,7 @@ if (Input::exists()) {
 
 
 
-<form class="" action="" method="post">
+<!--form class="" action="" method="post">
   <div class="field form-group">
     <label for="password_current">Current password</label>
     <input type="password" class="form-control" name="password_current" value="" id="password_current" autocomplete="off">
@@ -74,7 +74,7 @@ if (Input::exists()) {
   <input type="hidden" name="token" value="<?php echo Token::generate(); ?>">
   <input type="submit" value="Change">
 
-</form>
+</form-->
 
 <?php
   echo "</div> <!-- //maincontainer -->";
